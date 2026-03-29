@@ -1,3 +1,4 @@
-.Xil/*
-vivado*.jou
-vivado*.log
+**/.Xil/*
+**/vivado*.jou
+**/vivado*.log
+**/output/*
