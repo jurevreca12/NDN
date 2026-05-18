@@ -1,0 +1,8 @@
+prj/
+prj_vitis/
+xsim.dir/
+xvlog.pb
+xvlog.log
+xrc.log
+new/
+new_vitis/
